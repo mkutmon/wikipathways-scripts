@@ -11,7 +11,8 @@
 ## Quick solution to compare gene content between gene set collections
 ## for the different pathway databases
 ## Source of gene sets: MSigDb (https://www.gsea-msigdb.org/gsea/msigdb/)
-##
+## 
+## Output: Venn diagram showing gene overlap
 ## ---------------------------
 
 install.packages("msigdbr")
